@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6252" systemVersion="14B25" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Episodio" representedClassName="Episodio" syncable="YES">
+        <attribute name="avisado" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="avisadoSub" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="hayProper" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="hora" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="magnetLink" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nombreEpisodio" attributeType="String" syncable="YES"/>
+        <attribute name="numEpisodio" attributeType="String" syncable="YES"/>
+        <attribute name="seguirBuscando" optional="YES" attributeType="Boolean" defaultValueString="YES" elementID="seguirBuscado" syncable="YES"/>
+        <attribute name="tipo" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="urlSub" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="serie" maxCount="1" deletionRule="Nullify" destinationEntity="Serie" inverseName="episodios" inverseEntity="Serie" syncable="YES"/>
+    </entity>
+    <entity name="Serie" representedClassName="Serie" syncable="YES">
+        <attribute name="ano" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="buscadorSubtitulos" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="buscadorTorrent" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="descargaAutomaticaEp" attributeType="Boolean" defaultValueString="YES" elementID="descargaAutomatica" syncable="YES"/>
+        <attribute name="descargaAutomaticaSub" attributeType="Boolean" defaultValueString="YES" syncable="YES"/>
+        <attribute name="idTVdb" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="miniatura" optional="YES" attributeType="Binary" elementID="imagen" syncable="YES"/>
+        <attribute name="nombreParaBusquedaEp" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nombreParaBusquedaSubs" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nombreParaMostrar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pais" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="poster" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="prefiereHD" attributeType="Boolean" defaultValueString="YES" syncable="YES"/>
+        <attribute name="resolucionPreferida" attributeType="Integer 16" defaultValueString="720" syncable="YES"/>
+        <attribute name="serie" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sid" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="ultimaTemporadaEnAnteriores" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="ultimoEpisodioEnAnteriores" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="episodios" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Episodio" inverseName="serie" inverseEntity="Episodio" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Episodio" positionX="261" positionY="-9" width="128" height="210"/>
+        <element name="Serie" positionX="-63" positionY="-18" width="128" height="330"/>
+    </elements>
+</model>

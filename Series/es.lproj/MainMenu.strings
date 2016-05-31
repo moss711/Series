@@ -1,0 +1,417 @@
+
+/* Class = "NSTextFieldCell"; title = "NombreEpisodio"; ObjectID = "00L-3n-Vj3"; */
+"00L-3n-Vj3.title" = "NombreEpisodio";
+
+/* Class = "NSMenuItem"; title = "Marcar episodio como no descargado"; ObjectID = "0Vs-TP-MUB"; */
+"0Vs-TP-MUB.title" = "Marcar episodio como no descargado";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "1Ic-vb-wze"; */
+"1Ic-vb-wze.title" = "Jump to Selection";
+
+/* Class = "NSMenuItem"; title = "TvTime"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "TvTime";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "1uv-B1-p74"; */
+"1uv-B1-p74.title" = "Check Document Now";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Nombre"; ObjectID = "2iL-08-56C"; */
+"2iL-08-56C.placeholderString" = "Nombre";
+
+/* Class = "NSTextFieldCell"; title = "Nombre"; ObjectID = "2iL-08-56C"; */
+"2iL-08-56C.title" = "Nombre";
+
+/* Class = "NSTextFieldCell"; title = "diasRestantes"; ObjectID = "2jY-7L-iUh"; */
+"2jY-7L-iUh.title" = "diasRestantes";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "44Z-NN-h8v"; */
+"44Z-NN-h8v.title" = "Speech";
+
+/* Class = "NSMenuItem"; title = "Ver"; ObjectID = "4PD-z6-L6E"; */
+"4PD-z6-L6E.title" = "Ver";
+
+/* Class = "NSMenuItem"; title = "Quit TvTime"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quit TvTime";
+
+/* Class = "NSTextFieldCell"; title = "fechaEmision"; ObjectID = "59j-CR-Avm"; */
+"59j-CR-Avm.title" = "fechaEmision";
+
+/* Class = "NSMenuItem"; title = "..."; ObjectID = "5H3-uJ-0KK"; */
+"5H3-uJ-0KK.title" = "...";
+
+/* Class = "NSButtonCell"; title = "Estoy al día"; ObjectID = "5Ow-6g-tsz"; */
+"5Ow-6g-tsz.title" = "Estoy al día";
+
+/* Class = "NSMenuItem"; title = "Deshacer"; ObjectID = "5Vr-i0-I5r"; */
+"5Vr-i0-I5r.title" = "Deshacer";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "5h2-BV-iUu"; */
+"5h2-BV-iUu.title" = "Text Replacement";
+
+/* Class = "NSMenuItem"; title = "About TvTime"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "About TvTime";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "6AC-C2-Hr3"; */
+"6AC-C2-Hr3.title" = "Radio";
+
+/* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "6YN-fJ-c5C"; */
+"6YN-fJ-c5C.title" = "Make Upper Case";
+
+/* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "6rW-5W-MEy"; */
+"6rW-5W-MEy.title" = "Make Lower Case";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "Subtítulo no disponible"; ObjectID = "6th-F3-1pf"; */
+"6th-F3-1pf.ibShadowedToolTip" = "Subtítulo no disponible";
+
+/* Class = "NSTextFieldCell"; placeholderString = "¿Qué serie quieres seguir?"; ObjectID = "7Ap-ck-160"; */
+"7Ap-ck-160.placeholderString" = "¿Qué serie quieres seguir?";
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "8EV-R3-vHc"; */
+"8EV-R3-vHc.title" = "Substitutions";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Nombre"; ObjectID = "8GT-5z-1dy"; */
+"8GT-5z-1dy.placeholderString" = "Nombre";
+
+/* Class = "NSTextFieldCell"; title = "Nombre"; ObjectID = "8GT-5z-1dy"; */
+"8GT-5z-1dy.title" = "Nombre";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "8aL-Kr-t0Y"; */
+"8aL-Kr-t0Y.title" = "Find Previous";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "910-ej-Ggs"; */
+"910-ej-Ggs.title" = "Show Substitutions";
+
+/* Class = "NSMenu"; title = "Editar"; ObjectID = "9Sg-yJ-B6J"; */
+"9Sg-yJ-B6J.title" = "Editar";
+
+/* Class = "NSSegmentedCell"; 9h1-gt-K7w.ibShadowedToolTips[0] = "Próximos capítulos"; ObjectID = "9h1-gt-K7w"; */
+"9h1-gt-K7w.ibShadowedToolTips[0]" = "Próximos capítulos";
+
+/* Class = "NSSegmentedCell"; 9h1-gt-K7w.ibShadowedToolTips[1] = "Capítulos anteriores"; ObjectID = "9h1-gt-K7w"; */
+"9h1-gt-K7w.ibShadowedToolTips[1]" = "Capítulos anteriores";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSMenuItem"; title = "Recargar"; ObjectID = "BH2-mI-hp4"; */
+"BH2-mI-hp4.title" = "Recargar";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "Preferences…";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "CMD-C5-TNy"; */
+"CMD-C5-TNy.title" = "Show Spelling and Grammar";
+
+/* Class = "NSTextFieldCell"; title = "horasRestantes"; ObjectID = "DF8-yh-3wq"; */
+"DF8-yh-3wq.title" = "horasRestantes";
+
+/* Class = "NSMenuItem"; title = "Cerrar"; ObjectID = "DVo-aG-piG"; */
+"DVo-aG-piG.title" = "Cerrar";
+
+/* Class = "NSMenuItem"; title = "Animacion"; ObjectID = "Dic-xN-C5D"; */
+"Dic-xN-C5D.title" = "Animacion";
+
+/* Class = "NSMenuItem"; title = "Descargar subtítulos nuevos"; ObjectID = "EHn-Cq-ufk"; */
+"EHn-Cq-ufk.title" = "Descargar subtítulos nuevos";
+
+/* Class = "NSMenuItem"; title = "Próximos capítulos"; ObjectID = "EQQ-Ej-5SQ"; */
+"EQQ-Ej-5SQ.title" = "Próximos capítulos";
+
+/* Class = "NSMenu"; title = "Episodio"; ObjectID = "FHy-wy-U0n"; */
+"FHy-wy-U0n.title" = "Episodio";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "Fju-0B-u7d"; */
+"Fju-0B-u7d.title" = "Check Spelling While Typing";
+
+/* Class = "NSMenuItem"; title = "Series"; ObjectID = "GbN-ji-PHO"; */
+"GbN-ji-PHO.title" = "Series";
+
+/* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "HDY-Va-x1o"; */
+"HDY-Va-x1o.title" = "Smart Links";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Nombre"; ObjectID = "HgK-pp-pJ4"; */
+"HgK-pp-pJ4.placeholderString" = "Nombre";
+
+/* Class = "NSTextFieldCell"; title = "Nombre"; ObjectID = "HgK-pp-pJ4"; */
+"HgK-pp-pJ4.title" = "Nombre";
+
+/* Class = "NSMenuItem"; title = "Copiar"; ObjectID = "Hz9-2A-zpv"; */
+"Hz9-2A-zpv.title" = "Copiar";
+
+/* Class = "NSMenuItem"; title = "Episodio"; ObjectID = "IEU-nt-2QH"; */
+"IEU-nt-2QH.title" = "Episodio";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Icd-94-2Yd"; */
+"Icd-94-2Yd.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "JKq-HI-JDX"; */
+"JKq-HI-JDX.title" = "Smart Quotes";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Show All";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "L1e-lh-tLW"; */
+"L1e-lh-tLW.title" = "Find Next";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "MQU-eD-uIg"; */
+"MQU-eD-uIg.title" = "Speech";
+
+/* Class = "NSMenuItem"; title = "debugListarTorrents"; ObjectID = "N75-xh-Dt9"; */
+"N75-xh-Dt9.title" = "debugListarTorrents";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "NaR-xh-qYz"; */
+"NaR-xh-qYz.title" = "Correct Spelling Automatically";
+
+/* Class = "NSTextFieldCell"; title = "01x01"; ObjectID = "NeO-C7-3jR"; */
+"NeO-C7-3jR.title" = "01x01";
+
+/* Class = "NSMenu"; title = "Ver"; ObjectID = "NoC-d9-cja"; */
+"NoC-d9-cja.title" = "Ver";
+
+/* Class = "NSMenuItem"; title = "Descargar episodios nuevos"; ObjectID = "OQ1-Ca-Ecp"; */
+"OQ1-Ca-Ecp.title" = "Descargar episodios nuevos";
+
+/* Class = "NSToolbarItem"; label = "Seleccionar vista"; ObjectID = "OdX-Tp-lSd"; */
+"OdX-Tp-lSd.label" = "Seleccionar vista";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Seleccionar vista"; ObjectID = "OdX-Tp-lSd"; */
+"OdX-Tp-lSd.paletteLabel" = "Seleccionar vista";
+
+/* Class = "NSMenuItem"; title = "Hide TvTime"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Hide TvTime";
+
+/* Class = "NSButtonCell"; title = "El último episodio que vi fue:"; ObjectID = "P6S-Rv-Oim"; */
+"P6S-Rv-Oim.title" = "El último episodio que vi fue:";
+
+/* Class = "NSWindow"; title = "TvTime"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "TvTime";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "Episodio descargado"; ObjectID = "RkU-gV-L4T"; */
+"RkU-gV-L4T.ibShadowedToolTip" = "Episodio descargado";
+
+/* Class = "NSMenuItem"; title = "Recargar imagen de serie seleccionada"; ObjectID = "SGD-59-Jva"; */
+"SGD-59-Jva.title" = "Recargar imagen de serie seleccionada";
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "SLT-Xv-fqd"; */
+"SLT-Xv-fqd.title" = "Smart Copy/Paste";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "SRj-Hq-4mc"; */
+"SRj-Hq-4mc.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Eliminar"; ObjectID = "SYe-gi-uSs"; */
+"SYe-gi-uSs.title" = "Eliminar";
+
+/* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "SgO-vM-mph"; */
+"SgO-vM-mph.title" = "Capitalize";
+
+/* Class = "NSTextFieldCell"; title = "NombreEpisodio"; ObjectID = "Sks-Fp-Y1e"; */
+"Sks-Fp-Y1e.title" = "NombreEpisodio";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "TEr-7Y-a4w"; */
+"TEr-7Y-a4w.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Descargar episodio"; ObjectID = "Tb9-lp-xlY"; */
+"Tb9-lp-xlY.title" = "Descargar episodio";
+
+/* Class = "NSMenuItem"; title = "Pruebas de recargar"; ObjectID = "TcC-ol-KIv"; */
+"TcC-ol-KIv.title" = "Pruebas de recargar";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "Ue7-vG-fXE"; */
+"Ue7-vG-fXE.title" = "Find";
+
+/* Class = "NSButtonCell"; title = "Buscar"; ObjectID = "Umf-5i-C6r"; */
+"Umf-5i-C6r.title" = "Buscar";
+
+/* Class = "NSToolbarItem"; label = "Indicador de Progreso1"; ObjectID = "Uta-nJ-0Bb"; */
+"Uta-nJ-0Bb.label" = "Indicador de Progreso1";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Indicador de Progreso1"; ObjectID = "Uta-nJ-0Bb"; */
+"Uta-nJ-0Bb.paletteLabel" = "Indicador de Progreso1";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Hide Others";
+
+/* Class = "NSMenuItem"; title = "Marcar episodio como descargado"; ObjectID = "WHF-HT-bb8"; */
+"WHF-HT-bb8.title" = "Marcar episodio como descargado";
+
+/* Class = "NSToolbarItem"; label = "Indicador de Progreso2"; ObjectID = "WM0-An-kRF"; */
+"WM0-An-kRF.label" = "Indicador de Progreso2";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Indicador de Progreso2"; ObjectID = "WM0-An-kRF"; */
+"WM0-An-kRF.paletteLabel" = "Indicador de Progreso2";
+
+/* Class = "NSMenuItem"; title = "Debug"; ObjectID = "WiF-na-hXY"; */
+"WiF-na-hXY.title" = "Debug";
+
+/* Class = "NSMenuItem"; title = "Cortar"; ObjectID = "XUt-ap-Ycc"; */
+"XUt-ap-Ycc.title" = "Cortar";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "XoK-jI-YXY"; */
+"XoK-jI-YXY.title" = "Start Speaking";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "YdR-Lg-T3x"; */
+"YdR-Lg-T3x.title" = "Substitutions";
+
+/* Class = "NSMenuItem"; title = "Ventana añadir"; ObjectID = "Yks-RS-35W"; */
+"Yks-RS-35W.title" = "Ventana añadir";
+
+/* Class = "NSMenuItem"; title = "Exportar series"; ObjectID = "bO3-ew-hak"; */
+"bO3-ew-hak.title" = "Exportar series";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "Subtítulo no disponible"; ObjectID = "baq-a6-EIv"; */
+"baq-a6-EIv.ibShadowedToolTip" = "Subtítulo no disponible";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "bd3-dh-NGW"; */
+"bd3-dh-NGW.title" = "Check Grammar With Spelling";
+
+/* Class = "NSMenu"; title = "Archivo"; ObjectID = "bib-Uj-vzu"; */
+"bib-Uj-vzu.title" = "Archivo";
+
+/* Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "bz8-P8-QGl"; */
+"bz8-P8-QGl.title" = "Data Detectors";
+
+/* Class = "NSMenuItem"; title = "Rehacer"; ObjectID = "cBU-03-phw"; */
+"cBU-03-phw.title" = "Rehacer";
+
+/* Class = "NSMenuItem"; title = "Seleccionar todo"; ObjectID = "cH4-zt-QKL"; */
+"cH4-zt-QKL.title" = "Seleccionar todo";
+
+/* Class = "NSMenuItem"; title = "Archivo"; ObjectID = "dMs-cI-mzQ"; */
+"dMs-cI-mzQ.title" = "Archivo";
+
+/* Class = "NSMenuItem"; title = "Importar series"; ObjectID = "e0m-QK-3XY"; */
+"e0m-QK-3XY.title" = "Importar series";
+
+/* Class = "NSMenuItem"; title = "Propiedades de serie"; ObjectID = "enf-X5-HCy"; */
+"enf-X5-HCy.title" = "Propiedades de serie";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "fKW-mV-U6B"; */
+"fKW-mV-U6B.title" = "Stop Speaking";
+
+/* Class = "NSMenuItem"; title = "Poner todas las series para subtitulos.es"; ObjectID = "fao-d3-7LV"; */
+"fao-d3-7LV.title" = "Poner todas las series para subtitulos.es";
+
+/* Class = "NSMenuItem"; title = "Descargar subtítulo"; ObjectID = "fqz-yO-ryX"; */
+"fqz-yO-ryX.title" = "Descargar subtítulo";
+
+/* Class = "NSToolbarItem"; label = "Eliminar"; ObjectID = "fwr-Bb-gBY"; */
+"fwr-Bb-gBY.label" = "Eliminar";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Eliminar"; ObjectID = "fwr-Bb-gBY"; */
+"fwr-Bb-gBY.paletteLabel" = "Eliminar";
+
+/* Class = "NSMenuItem"; title = "Buscar torrent"; ObjectID = "g5Q-w3-7FN"; */
+"g5Q-w3-7FN.title" = "Buscar torrent";
+
+/* Class = "NSMenuItem"; title = "Marcar todo como descargado"; ObjectID = "gEp-CZ-Xpu"; */
+"gEp-CZ-Xpu.title" = "Marcar todo como descargado";
+
+/* Class = "NSMenuItem"; title = "Mostrar búsqueda de episodios nuevos"; ObjectID = "gic-pX-YNi"; */
+"gic-pX-YNi.title" = "Mostrar búsqueda de episodios nuevos";
+
+/* Class = "NSMenuItem"; title = "Mostrar búsqueda de episodio"; ObjectID = "gu2-wz-hIB"; */
+"gu2-wz-hIB.title" = "Mostrar búsqueda de episodio";
+
+/* Class = "NSTextFieldCell"; title = "NumEpisodio"; ObjectID = "h2c-LX-wn3"; */
+"h2c-LX-wn3.title" = "NumEpisodio";
+
+/* Class = "NSToolbarItem"; label = "Añadir"; ObjectID = "h71-XJ-E7S"; */
+"h71-XJ-E7S.label" = "Añadir";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Añadr"; ObjectID = "h71-XJ-E7S"; */
+"h71-XJ-E7S.paletteLabel" = "Añadr";
+
+/* Class = "NSMenu"; title = "Spelling"; ObjectID = "hEu-h6-whz"; */
+"hEu-h6-whz.title" = "Spelling";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Añadir serie"; ObjectID = "iBA-s2-sZc"; */
+"iBA-s2-sZc.title" = "Añadir serie";
+
+/* Class = "NSTextFieldCell"; title = "NombreEpisodio"; ObjectID = "jHC-Iw-eOz"; */
+"jHC-Iw-eOz.title" = "NombreEpisodio";
+
+/* Class = "NSButtonCell"; title = "Añadir"; ObjectID = "jbI-eM-IRd"; */
+"jbI-eM-IRd.title" = "Añadir";
+
+/* Class = "NSMenu"; title = "Series"; ObjectID = "kgb-iT-Cz5"; */
+"kgb-iT-Cz5.title" = "Series";
+
+/* Class = "NSMenuItem"; title = "Capítulos anteriores"; ObjectID = "nml-aF-8cF"; */
+"nml-aF-8cF.title" = "Capítulos anteriores";
+
+/* Class = "NSMenuItem"; title = "Marcar subtítulo como descargado"; ObjectID = "o77-aj-xMl"; */
+"o77-aj-xMl.title" = "Marcar subtítulo como descargado";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "ovT-Tf-sth"; */
+"ovT-Tf-sth.title" = "Use Selection for Find";
+
+/* Class = "NSMenu"; title = "Transformations"; ObjectID = "pzz-RB-Htl"; */
+"pzz-RB-Htl.title" = "Transformations";
+
+/* Class = "NSMenuItem"; title = "Pegar"; ObjectID = "r6S-vd-CKk"; */
+"r6S-vd-CKk.title" = "Pegar";
+
+/* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "rL1-JQ-Jbh"; */
+"rL1-JQ-Jbh.title" = "Find and Replace…";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "rao-PK-0dJ"; */
+"rao-PK-0dJ.title" = "Spelling and Grammar";
+
+/* Class = "NSTextFieldCell"; title = "22 horas"; ObjectID = "ruF-OS-bR8"; */
+"ruF-OS-bR8.title" = "22 horas";
+
+/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "sVh-hZ-ceB"; */
+"sVh-hZ-ceB.title" = "Transformations";
+
+/* Class = "NSMenuItem"; title = "Marcar subtítulo como no descargado"; ObjectID = "sgQ-Pp-uLC"; */
+"sgQ-Pp-uLC.title" = "Marcar subtítulo como no descargado";
+
+/* Class = "NSMenu"; title = "TvTime"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "TvTime";
+
+/* Class = "NSToolbarItem"; label = "Recargar"; ObjectID = "utv-yx-8yh"; */
+"utv-yx-8yh.label" = "Recargar";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Recargar"; ObjectID = "utv-yx-8yh"; */
+"utv-yx-8yh.paletteLabel" = "Recargar";
+
+/* Class = "NSMenuItem"; title = "Editar"; ObjectID = "vK0-nr-p3k"; */
+"vK0-nr-p3k.title" = "Editar";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "vsE-xd-2bU"; */
+"vsE-xd-2bU.title" = "Find";
+
+/* Class = "NSMenuItem"; title = "Pegar con el mismo formato"; ObjectID = "vvc-da-Bea"; */
+"vvc-da-Bea.title" = "Pegar con el mismo formato";
+
+/* Class = "NSTextFieldCell"; title = "fechaEmision"; ObjectID = "wrb-OC-5xB"; */
+"wrb-OC-5xB.title" = "fechaEmision";
+
+/* Class = "NSMenu"; title = "Debug"; ObjectID = "wsB-Eh-Fu2"; */
+"wsB-Eh-Fu2.title" = "Debug";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "Episodio descargado"; ObjectID = "xRA-yN-1Vn"; */
+"xRA-yN-1Vn.ibShadowedToolTip" = "Episodio descargado";
+
+/* Class = "NSMenuItem"; title = "Eliminar serie"; ObjectID = "xlT-pI-THn"; */
+"xlT-pI-THn.title" = "Eliminar serie";
+
+/* Class = "NSTextFieldCell"; title = "333 dias"; ObjectID = "yJm-3U-ytF"; */
+"yJm-3U-ytF.title" = "333 dias";
+
+/* Class = "NSTextFieldCell"; title = "fechaEmision"; ObjectID = "yUG-Xu-IxZ"; */
+"yUG-Xu-IxZ.title" = "fechaEmision";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "ylA-eS-vRT"; */
+"ylA-eS-vRT.title" = "Smart Dashes";
+
+/* Class = "NSTextFieldCell"; title = "01x01"; ObjectID = "z2e-F2-SLI"; */
+"z2e-F2-SLI.title" = "01x01";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "zVZ-jw-6Fp"; */
+"zVZ-jw-6Fp.title" = "Find…";

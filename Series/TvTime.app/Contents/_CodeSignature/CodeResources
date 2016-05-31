@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Resources/279830-1.jpg</key>
+		<data>
+		q2ExnyZ/iKspOkooADTG4yHdW1c=
+		</data>
+		<key>Resources/AppIcon.icns</key>
+		<data>
+		NrXj3fROTYpP2WQAOCfTn4yipUg=
+		</data>
+		<key>Resources/BanderaNuevoPNG.png</key>
+		<data>
+		gdRnpHY4Q739ODPlNO+LvrSDt+E=
+		</data>
+		<key>Resources/Base.lproj/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0BvamMxmwoa36/bBK44JBKnCg5k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/CCGrisNoDisponiblePNG.png</key>
+		<data>
+		XCkn7SznQ80MEeb3Xpw9fNso+ek=
+		</data>
+		<key>Resources/CCGrisPNG.png</key>
+		<data>
+		atSeCjTTl/QuoIPcnkA+1ybVR9Q=
+		</data>
+		<key>Resources/ControladorVentanaSecundaria.nib</key>
+		<data>
+		7JolLvCAVOVZ9243Igms9sH1oKM=
+		</data>
+		<key>Resources/DescargaAzulPNG.png</key>
+		<data>
+		YQrAEs5kY+bOi+wzxzYRY3i1Ccc=
+		</data>
+		<key>Resources/DescargaGrisNoDisponiblePNG.png</key>
+		<data>
+		3X2moI01F3JNj+/6VQJ9kDgpHhE=
+		</data>
+		<key>Resources/DescargaGrisPNG.png</key>
+		<data>
+		2tPzsD1d1BnWdjTKLQy5HDos52E=
+		</data>
+		<key>Resources/ImagenDefecto.png</key>
+		<data>
+		6scGZLjLe0Y8su7xiBMY/f9665I=
+		</data>
+		<key>Resources/LICENSE</key>
+		<data>
+		gi4yc+Dgy59l5xttvWmnNlQ/Rps=
+		</data>
+		<key>Resources/Series.momd/Series 2.mom</key>
+		<data>
+		WPjlefV9Gm9IY6fkAf1Lkfv10BI=
+		</data>
+		<key>Resources/Series.momd/Series 3.mom</key>
+		<data>
+		NSPpyaGpd5bIzaPgPXi6Rrq74R0=
+		</data>
+		<key>Resources/Series.momd/Series 4.mom</key>
+		<data>
+		fMgZqYGt4jBXAGWVKQkvf/xEoyU=
+		</data>
+		<key>Resources/Series.momd/Series 4b.mom</key>
+		<data>
+		T4Jfu6gSySWbChdAiw83V7EKKds=
+		</data>
+		<key>Resources/Series.momd/Series 5.mom</key>
+		<data>
+		MLzu2q5nxlQMR6TBqElAFz2Vd7Q=
+		</data>
+		<key>Resources/Series.momd/Series 5c.mom</key>
+		<data>
+		7xjSwsapHYidAKODkOrkDgz8V9s=
+		</data>
+		<key>Resources/Series.momd/Series 5d.mom</key>
+		<data>
+		PyPZMI5HtpmnmXKpJB2ECotJvjk=
+		</data>
+		<key>Resources/Series.momd/Series 5e.mom</key>
+		<data>
+		nESgObSX0RjTNVefyJ9rZEOiGlE=
+		</data>
+		<key>Resources/Series.momd/Series 6.mom</key>
+		<data>
+		BFWqvWFR2wy9DiLocww5fdroL4c=
+		</data>
+		<key>Resources/Series.momd/Series 7.mom</key>
+		<data>
+		Un10dK5+Css57Gkt3XWF3lEuSOM=
+		</data>
+		<key>Resources/Series.momd/Series 7b.mom</key>
+		<data>
+		R2Q4dfZASm9SEUwbZRua3ovK28w=
+		</data>
+		<key>Resources/Series.momd/Series 7c.mom</key>
+		<data>
+		DKDS+Yj6tEA5dEFOZEOzC+B8zF4=
+		</data>
+		<key>Resources/Series.momd/Series 7d.mom</key>
+		<data>
+		Jy8Obc/+d9GcVeqqdVw4DGPKW78=
+		</data>
+		<key>Resources/Series.momd/Series 8.mom</key>
+		<data>
+		I1lyqOfytw9hv5ea7/MumNGroQw=
+		</data>
+		<key>Resources/Series.momd/Series 8b.mom</key>
+		<data>
+		qR7E/7kKTGqa9//OvfImIHuO6Po=
+		</data>
+		<key>Resources/Series.momd/Series 8c.mom</key>
+		<data>
+		6VQwDYrp1NfyQYSkpMakqE+fh/s=
+		</data>
+		<key>Resources/Series.momd/Series 8d.mom</key>
+		<data>
+		emCqTnMkErC6Y2y3nGe0dF1WI5Y=
+		</data>
+		<key>Resources/Series.momd/Series 8e.mom</key>
+		<data>
+		g4jNZ5Ff3le5cT6Z00IWvqhjp5o=
+		</data>
+		<key>Resources/Series.momd/Series 8e.omo</key>
+		<data>
+		GKNEgiuVJGcYNJx4Eaid2Kl0fLg=
+		</data>
+		<key>Resources/Series.momd/Series.mom</key>
+		<data>
+		SagwMPJ8nJC73ES0lgYMbcyaCL0=
+		</data>
+		<key>Resources/Series.momd/VersionInfo.plist</key>
+		<data>
+		CCdL7A7g5ePBZgsldSYL6oHvW1E=
+		</data>
+		<key>Resources/VentanaAnadir.nib</key>
+		<data>
+		gcljLwQYe50KTOG111AtfG5wcPk=
+		</data>
+		<key>Resources/archived-expanded-entitlements.xcent</key>
+		<data>
+		Ix1fdIz5DDq2BHilJNUmA0tAtMc=
+		</data>
+		<key>Resources/ccHighPNG.png</key>
+		<data>
+		Yr0l/355cpCwrpVjWU0vS980bvw=
+		</data>
+		<key>Resources/ccPNG.png</key>
+		<data>
+		d9LIh08a7l1JsWqyW1eXLsn98MA=
+		</data>
+		<key>Resources/en.lproj/Credits.rtf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qsPj75vhlu4edEnyo629yJfbs44=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MiLKDDnrUKr4EmuvhS5VQwxHGK8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>PlugIns/Episodios nuevos.appex</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Y2pWuva7IzqEW4Sy2zNRGzZ6yvw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"636a56baf6bb233a845b84b2db33511b367acafc"</string>
+		</dict>
+		<key>Resources/279830-1.jpg</key>
+		<data>
+		q2ExnyZ/iKspOkooADTG4yHdW1c=
+		</data>
+		<key>Resources/AppIcon.icns</key>
+		<data>
+		NrXj3fROTYpP2WQAOCfTn4yipUg=
+		</data>
+		<key>Resources/BanderaNuevoPNG.png</key>
+		<data>
+		gdRnpHY4Q739ODPlNO+LvrSDt+E=
+		</data>
+		<key>Resources/Base.lproj/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0BvamMxmwoa36/bBK44JBKnCg5k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/CCGrisNoDisponiblePNG.png</key>
+		<data>
+		XCkn7SznQ80MEeb3Xpw9fNso+ek=
+		</data>
+		<key>Resources/CCGrisPNG.png</key>
+		<data>
+		atSeCjTTl/QuoIPcnkA+1ybVR9Q=
+		</data>
+		<key>Resources/ControladorVentanaSecundaria.nib</key>
+		<data>
+		7JolLvCAVOVZ9243Igms9sH1oKM=
+		</data>
+		<key>Resources/DescargaAzulPNG.png</key>
+		<data>
+		YQrAEs5kY+bOi+wzxzYRY3i1Ccc=
+		</data>
+		<key>Resources/DescargaGrisNoDisponiblePNG.png</key>
+		<data>
+		3X2moI01F3JNj+/6VQJ9kDgpHhE=
+		</data>
+		<key>Resources/DescargaGrisPNG.png</key>
+		<data>
+		2tPzsD1d1BnWdjTKLQy5HDos52E=
+		</data>
+		<key>Resources/ImagenDefecto.png</key>
+		<data>
+		6scGZLjLe0Y8su7xiBMY/f9665I=
+		</data>
+		<key>Resources/LICENSE</key>
+		<data>
+		gi4yc+Dgy59l5xttvWmnNlQ/Rps=
+		</data>
+		<key>Resources/Series.momd/Series 2.mom</key>
+		<data>
+		WPjlefV9Gm9IY6fkAf1Lkfv10BI=
+		</data>
+		<key>Resources/Series.momd/Series 3.mom</key>
+		<data>
+		NSPpyaGpd5bIzaPgPXi6Rrq74R0=
+		</data>
+		<key>Resources/Series.momd/Series 4.mom</key>
+		<data>
+		fMgZqYGt4jBXAGWVKQkvf/xEoyU=
+		</data>
+		<key>Resources/Series.momd/Series 4b.mom</key>
+		<data>
+		T4Jfu6gSySWbChdAiw83V7EKKds=
+		</data>
+		<key>Resources/Series.momd/Series 5.mom</key>
+		<data>
+		MLzu2q5nxlQMR6TBqElAFz2Vd7Q=
+		</data>
+		<key>Resources/Series.momd/Series 5c.mom</key>
+		<data>
+		7xjSwsapHYidAKODkOrkDgz8V9s=
+		</data>
+		<key>Resources/Series.momd/Series 5d.mom</key>
+		<data>
+		PyPZMI5HtpmnmXKpJB2ECotJvjk=
+		</data>
+		<key>Resources/Series.momd/Series 5e.mom</key>
+		<data>
+		nESgObSX0RjTNVefyJ9rZEOiGlE=
+		</data>
+		<key>Resources/Series.momd/Series 6.mom</key>
+		<data>
+		BFWqvWFR2wy9DiLocww5fdroL4c=
+		</data>
+		<key>Resources/Series.momd/Series 7.mom</key>
+		<data>
+		Un10dK5+Css57Gkt3XWF3lEuSOM=
+		</data>
+		<key>Resources/Series.momd/Series 7b.mom</key>
+		<data>
+		R2Q4dfZASm9SEUwbZRua3ovK28w=
+		</data>
+		<key>Resources/Series.momd/Series 7c.mom</key>
+		<data>
+		DKDS+Yj6tEA5dEFOZEOzC+B8zF4=
+		</data>
+		<key>Resources/Series.momd/Series 7d.mom</key>
+		<data>
+		Jy8Obc/+d9GcVeqqdVw4DGPKW78=
+		</data>
+		<key>Resources/Series.momd/Series 8.mom</key>
+		<data>
+		I1lyqOfytw9hv5ea7/MumNGroQw=
+		</data>
+		<key>Resources/Series.momd/Series 8b.mom</key>
+		<data>
+		qR7E/7kKTGqa9//OvfImIHuO6Po=
+		</data>
+		<key>Resources/Series.momd/Series 8c.mom</key>
+		<data>
+		6VQwDYrp1NfyQYSkpMakqE+fh/s=
+		</data>
+		<key>Resources/Series.momd/Series 8d.mom</key>
+		<data>
+		emCqTnMkErC6Y2y3nGe0dF1WI5Y=
+		</data>
+		<key>Resources/Series.momd/Series 8e.mom</key>
+		<data>
+		g4jNZ5Ff3le5cT6Z00IWvqhjp5o=
+		</data>
+		<key>Resources/Series.momd/Series 8e.omo</key>
+		<data>
+		GKNEgiuVJGcYNJx4Eaid2Kl0fLg=
+		</data>
+		<key>Resources/Series.momd/Series.mom</key>
+		<data>
+		SagwMPJ8nJC73ES0lgYMbcyaCL0=
+		</data>
+		<key>Resources/Series.momd/VersionInfo.plist</key>
+		<data>
+		CCdL7A7g5ePBZgsldSYL6oHvW1E=
+		</data>
+		<key>Resources/VentanaAnadir.nib</key>
+		<data>
+		gcljLwQYe50KTOG111AtfG5wcPk=
+		</data>
+		<key>Resources/archived-expanded-entitlements.xcent</key>
+		<data>
+		Ix1fdIz5DDq2BHilJNUmA0tAtMc=
+		</data>
+		<key>Resources/ccHighPNG.png</key>
+		<data>
+		Yr0l/355cpCwrpVjWU0vS980bvw=
+		</data>
+		<key>Resources/ccPNG.png</key>
+		<data>
+		d9LIh08a7l1JsWqyW1eXLsn98MA=
+		</data>
+		<key>Resources/en.lproj/Credits.rtf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qsPj75vhlu4edEnyo629yJfbs44=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MiLKDDnrUKr4EmuvhS5VQwxHGK8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^Resources/</key>
+		<true/>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

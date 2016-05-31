@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="7706" systemVersion="14D136" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="7706"/>
+    </dependencies>
+    <objects>
+        <customObject id="-2" userLabel="File's Owner" customClass="VentanaPreferencias">
+            <connections>
+                <outlet property="desplegableIdiomaSubs" destination="QKH-eL-5j8" id="iJU-Ra-R7W"/>
+                <outlet property="textFieldDirectorioSubs" destination="2Ka-fS-CB2" id="xeI-dU-klC"/>
+                <outlet property="window" destination="F0z-JX-Cv5" id="gIp-Ho-8D9"/>
+            </connections>
+        </customObject>
+        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
+        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
+        <window title="Window" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" oneShot="NO" releasedWhenClosed="NO" animationBehavior="default" id="F0z-JX-Cv5" customClass="ventanaSerie">
+            <windowStyleMask key="styleMask" closable="YES" miniaturizable="YES" resizable="YES"/>
+            <windowPositionMask key="initialPositionMask" leftStrut="YES" rightStrut="YES" topStrut="YES" bottomStrut="YES"/>
+            <rect key="contentRect" x="365" y="373" width="550" height="208"/>
+            <rect key="screenRect" x="0.0" y="0.0" width="1280" height="777"/>
+            <value key="minSize" type="size" width="500" height="150"/>
+            <view key="contentView" id="se5-gp-TjO" customClass="rightView">
+                <rect key="frame" x="0.0" y="-1" width="550" height="208"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <customView translatesAutoresizingMaskIntoConstraints="NO" id="TS2-Wk-sbc" userLabel="Mitad izquierda">
+                        <rect key="frame" x="0.0" y="50" width="250" height="158"/>
+                        <subviews>
+                            <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="JnX-AQ-ELF">
+                                <rect key="frame" x="34" y="86" width="218" height="17"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="17" id="Sbc-AU-1Go"/>
+                                </constraints>
+                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="right" title="carpeta de descarga de subtítulos:" id="JFD-zu-gwt">
+                                    <font key="font" metaFont="system"/>
+                                    <color key="textColor" name="headerColor" catalog="System" colorSpace="catalog"/>
+                                    <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                                </textFieldCell>
+                            </textField>
+                            <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="GhD-ce-qv1">
+                                <rect key="frame" x="44" y="56" width="208" height="17"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="17" id="HAQ-EJ-cSh"/>
+                                </constraints>
+                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="justified" title="idioma de subtítulos por defecto:" id="Rgl-H9-GMM">
+                                    <font key="font" metaFont="system"/>
+                                    <color key="textColor" name="headerColor" catalog="System" colorSpace="catalog"/>
+                                    <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                                </textFieldCell>
+                            </textField>
+                        </subviews>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="JnX-AQ-ELF" secondAttribute="trailing" id="0M5-Ds-LEe"/>
+                            <constraint firstAttribute="trailing" secondItem="GhD-ce-qv1" secondAttribute="trailing" id="BzB-wr-9TL"/>
+                            <constraint firstAttribute="centerY" secondItem="JnX-AQ-ELF" secondAttribute="centerY" constant="15" id="DYv-qf-lJh"/>
+                            <constraint firstAttribute="width" constant="250" id="uZi-sy-V9c"/>
+                            <constraint firstAttribute="centerY" secondItem="GhD-ce-qv1" secondAttribute="centerY" constant="-15" id="zrF-iQ-XSp"/>
+                        </constraints>
+                        <accessibility description="asd"/>
+                    </customView>
+                    <customView translatesAutoresizingMaskIntoConstraints="NO" id="yZR-Pl-3qY" userLabel="Mitad derecha">
+                        <rect key="frame" x="250" y="50" width="300" height="158"/>
+                        <subviews>
+                            <customView translatesAutoresizingMaskIntoConstraints="NO" id="CxQ-2a-l0m" userLabel="seleccion de carpeta para ruta subs">
+                                <rect key="frame" x="0.0" y="83" width="300" height="21"/>
+                                <subviews>
+                                    <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="2Ka-fS-CB2">
+                                        <rect key="frame" x="2" y="3" width="147" height="17"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="17" id="HK9-3B-F46"/>
+                                        </constraints>
+                                        <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" placeholderString="selecciona una carpeta" id="T0L-6z-w6Y">
+                                            <font key="font" metaFont="system"/>
+                                            <color key="textColor" name="headerColor" catalog="System" colorSpace="catalog"/>
+                                            <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                                        </textFieldCell>
+                                    </textField>
+                                    <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="ls1-qj-FdB">
+                                        <rect key="frame" x="149" y="-7" width="82" height="32"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="70" id="JeX-5U-z7Z"/>
+                                            <constraint firstAttribute="height" constant="21" id="i9E-XG-uzJ"/>
+                                        </constraints>
+                                        <buttonCell key="cell" type="push" title="Cambiar" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="5Uh-oi-fy3">
+                                            <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                                            <font key="font" metaFont="system"/>
+                                        </buttonCell>
+                                        <connections>
+                                            <action selector="abrirPanelRutaSubs:" target="-2" id="uKO-15-4on"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="3NN-zZ-OsN"/>
+                                    <constraint firstItem="2Ka-fS-CB2" firstAttribute="leading" secondItem="CxQ-2a-l0m" secondAttribute="leading" constant="4" id="4ps-2t-4lt"/>
+                                    <constraint firstAttribute="centerY" secondItem="2Ka-fS-CB2" secondAttribute="centerY" constant="1" id="88K-qG-TVU"/>
+                                    <constraint firstItem="ls1-qj-FdB" firstAttribute="leading" secondItem="2Ka-fS-CB2" secondAttribute="trailing" constant="8" id="vL7-ec-BjL"/>
+                                    <constraint firstAttribute="centerY" secondItem="ls1-qj-FdB" secondAttribute="centerY" id="viR-gL-4bs"/>
+                                </constraints>
+                            </customView>
+                            <popUpButton verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="QKH-eL-5j8" userLabel="desplegable idioma">
+                                <rect key="frame" x="2" y="51" width="73" height="26"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="GfE-fi-McN"/>
+                                </constraints>
+                                <popUpButtonCell key="cell" type="push" bezelStyle="rounded" alignment="left" lineBreakMode="truncatingTail" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" id="Bcl-hv-xUG">
+                                    <behavior key="behavior" lightByBackground="YES" lightByGray="YES"/>
+                                    <font key="font" metaFont="menu"/>
+                                    <menu key="menu" id="ZtD-8m-JlV">
+                                        <items>
+                                            <menuItem title="Español" state="on" tag="1" id="xcn-2V-mE2"/>
+                                            <menuItem title="Inglés" id="alV-5b-pjm"/>
+                                        </items>
+                                    </menu>
+                                </popUpButtonCell>
+                            </popUpButton>
+                        </subviews>
+                        <constraints>
+                            <constraint firstAttribute="centerY" secondItem="CxQ-2a-l0m" secondAttribute="centerY" constant="14" id="9cL-9N-xxA"/>
+                            <constraint firstItem="CxQ-2a-l0m" firstAttribute="leading" secondItem="yZR-Pl-3qY" secondAttribute="leading" id="UvO-hr-hpX"/>
+                            <constraint firstAttribute="centerY" secondItem="QKH-eL-5j8" secondAttribute="centerY" constant="-15" id="aVh-JO-7qb"/>
+                            <constraint firstAttribute="trailing" secondItem="CxQ-2a-l0m" secondAttribute="trailing" id="u1E-va-e1v"/>
+                            <constraint firstItem="QKH-eL-5j8" firstAttribute="leading" secondItem="yZR-Pl-3qY" secondAttribute="leading" constant="4" id="zQn-AD-XCo"/>
+                        </constraints>
+                    </customView>
+                    <customView translatesAutoresizingMaskIntoConstraints="NO" id="6m3-IS-CFp" userLabel="franja de abajo">
+                        <rect key="frame" x="0.0" y="0.0" width="550" height="50"/>
+                        <subviews>
+                            <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="ZW7-mA-Ity">
+                                <rect key="frame" x="452" y="13" width="89" height="32"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="77" id="URp-zQ-J0q"/>
+                                    <constraint firstAttribute="height" constant="21" id="VNW-rR-EbV"/>
+                                    <constraint firstAttribute="height" constant="21" id="jow-UR-kiy"/>
+                                </constraints>
+                                <buttonCell key="cell" type="push" title="Aceptar" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="ajE-uz-5Ro">
+                                    <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                                    <font key="font" metaFont="system"/>
+                                    <connections>
+                                        <action selector="botonAceptar:" target="-2" id="cHj-Cs-Ce1"/>
+                                    </connections>
+                                </buttonCell>
+                            </button>
+                            <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="uRo-EO-SWS">
+                                <rect key="frame" x="357" y="13" width="95" height="32"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="9ho-oo-0oQ"/>
+                                    <constraint firstAttribute="width" constant="83" id="B1V-oU-Eu7"/>
+                                    <constraint firstAttribute="height" constant="21" id="dNb-J7-vJd"/>
+                                </constraints>
+                                <buttonCell key="cell" type="push" title="Cancelar" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="gzz-ad-bir">
+                                    <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                                    <font key="font" metaFont="system"/>
+                                </buttonCell>
+                                <connections>
+                                    <action selector="botonCancelar:" target="-2" id="NcP-Ch-UXm"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="ZW7-mA-Ity" firstAttribute="leading" secondItem="uRo-EO-SWS" secondAttribute="trailing" constant="12" id="0j7-a4-Ctk"/>
+                            <constraint firstAttribute="height" constant="50" id="0lt-RD-8v7"/>
+                            <constraint firstAttribute="bottom" secondItem="ZW7-mA-Ity" secondAttribute="bottom" constant="20" id="Msx-kP-Zcz"/>
+                            <constraint firstAttribute="bottom" secondItem="uRo-EO-SWS" secondAttribute="bottom" constant="20" id="djh-ZV-Cqx"/>
+                            <constraint firstAttribute="trailing" secondItem="ZW7-mA-Ity" secondAttribute="trailing" constant="15" id="rB3-HS-yao"/>
+                        </constraints>
+                    </customView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="6m3-IS-CFp" firstAttribute="top" secondItem="TS2-Wk-sbc" secondAttribute="bottom" id="7mR-Lp-Hxn"/>
+                    <constraint firstAttribute="bottom" secondItem="6m3-IS-CFp" secondAttribute="bottom" id="8hk-nG-iB2"/>
+                    <constraint firstAttribute="trailing" secondItem="yZR-Pl-3qY" secondAttribute="trailing" id="BHA-eB-Ue9"/>
+                    <constraint firstItem="yZR-Pl-3qY" firstAttribute="leading" secondItem="TS2-Wk-sbc" secondAttribute="trailing" id="CIJ-a5-0Eg"/>
+                    <constraint firstItem="TS2-Wk-sbc" firstAttribute="top" secondItem="se5-gp-TjO" secondAttribute="top" id="UGC-MC-3qL"/>
+                    <constraint firstItem="6m3-IS-CFp" firstAttribute="leading" secondItem="se5-gp-TjO" secondAttribute="leading" id="cog-u3-p6f"/>
+                    <constraint firstItem="TS2-Wk-sbc" firstAttribute="leading" secondItem="se5-gp-TjO" secondAttribute="leading" id="eNI-cT-lEQ"/>
+                    <constraint firstItem="6m3-IS-CFp" firstAttribute="top" secondItem="yZR-Pl-3qY" secondAttribute="bottom" id="fQM-Yg-H38"/>
+                    <constraint firstItem="yZR-Pl-3qY" firstAttribute="top" secondItem="se5-gp-TjO" secondAttribute="top" id="lVI-qo-Tax"/>
+                    <constraint firstAttribute="trailing" secondItem="6m3-IS-CFp" secondAttribute="trailing" id="rVO-uj-zIW"/>
+                </constraints>
+            </view>
+            <connections>
+                <outlet property="delegate" destination="-2" id="0bl-1N-AYu"/>
+            </connections>
+            <point key="canvasLocation" x="422" y="402"/>
+        </window>
+    </objects>
+</document>
